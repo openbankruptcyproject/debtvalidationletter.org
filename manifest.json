@@ -1,0 +1,16 @@
+{
+  "name": "Debt Validation Letter Guide -- Your FDCPA Rights",
+  "short_name": "DebtValidation",
+  "description": "Free guide to debt validation letters under the Fair Debt Collection Practices Act. Know your rights under Section 809(b). Free template included.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

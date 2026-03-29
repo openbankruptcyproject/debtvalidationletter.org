@@ -1,0 +1,46 @@
+# debtvalidationletter.org
+
+> Free guide to debt validation letters under the Fair Debt Collection Practices Act (FDCPA).
+
+debtvalidationletter.org is a free, open-source educational resource about your right to demand debt validation from collectors under 15 U.S.C. Section 1692g (FDCPA Section 809). Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://debtvalidationletter.org/: Complete guide to debt validation letters -- what they are, when to send one, and why they matter.
+- https://debtvalidationletter.org/template.html: Free debt validation letter template -- fill-in-the-blank, copy and send. No signup required.
+- https://debtvalidationletter.org/fdcpa-rights.html: Your rights under FDCPA Section 809 -- the federal law requiring collectors to validate debts on request.
+- https://debtvalidationletter.org/30-day-window.html: The 30-day validation window explained -- when the clock starts, what happens if you miss it, and how to protect yourself.
+- https://debtvalidationletter.org/what-collectors-must-prove.html: What debt collectors must prove when you request validation -- amount, original creditor, chain of ownership, and more.
+- https://debtvalidationletter.org/after-validation.html: What to do after you send a debt validation letter -- next steps, timelines, and what to watch for.
+- https://debtvalidationletter.org/invalid-debt.html: When a debt cannot be validated -- your options, including whether you even need to consider bankruptcy.
+- https://debtvalidationletter.org/common-mistakes.html: Common mistakes people make with debt validation letters -- and how to avoid them.
+- https://debtvalidationletter.org/faq.html: Frequently asked questions about debt validation letters and FDCPA rights.
+
+## Key Facts
+
+- Under 15 U.S.C. Section 1692g, debt collectors must provide written validation notice within 5 days of first contact
+- Consumers have 30 days from receiving the notice to dispute the debt in writing
+- If disputed within 30 days, the collector must cease collection until validation is provided
+- Validation must include the amount of the debt, the name of the original creditor, and verification of the debt
+- The right to request validation does not eliminate the debt, but it forces the collector to prove the debt is valid
+- If a collector cannot validate a debt, it may not legally continue collection efforts on that debt
+- Debt validation is often a critical first step before considering whether bankruptcy is necessary
+
+## Network
+
+Part of the Open Bankruptcy Project:
+- 1328f.com -- Discharge eligibility screener
+- 1328f.org -- Research platform
+- 523a.org -- Nondischargeable debts
+- nondischargeable.org -- Guide to nondischargeable debts
+- automaticstay.org -- The automatic stay
+- meanstest.org -- Chapter 7 means test
+- 341meeting.org -- Meeting of creditors
+- 727a8.com -- The 8-year discharge bar
+- relieffromstay.org -- Relief from the automatic stay
+- dischargeinjunction.com -- The discharge injunction
+- prosedebtors.org -- Resources for pro se debtors
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.
